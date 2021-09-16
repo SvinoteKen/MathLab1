@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLab1", "MathLab1\MathLab1.csproj", "{8DC8D88E-5A28-4BA1-88DE-DFEC8814164D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC8D88E-5A28-4BA1-88DE-DFEC8814164D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC8D88E-5A28-4BA1-88DE-DFEC8814164D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC8D88E-5A28-4BA1-88DE-DFEC8814164D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC8D88E-5A28-4BA1-88DE-DFEC8814164D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B508840-46AE-4489-B75C-E12FF10DD356}
+	EndGlobalSection
+EndGlobal

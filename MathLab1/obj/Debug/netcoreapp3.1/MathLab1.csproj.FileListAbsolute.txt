@@ -1,0 +1,14 @@
+C:\Users\stast\source\repos\MathLab1\MathLab1\bin\Debug\netcoreapp3.1\MathLab1.exe
+C:\Users\stast\source\repos\MathLab1\MathLab1\bin\Debug\netcoreapp3.1\MathLab1.deps.json
+C:\Users\stast\source\repos\MathLab1\MathLab1\bin\Debug\netcoreapp3.1\MathLab1.runtimeconfig.json
+C:\Users\stast\source\repos\MathLab1\MathLab1\bin\Debug\netcoreapp3.1\MathLab1.runtimeconfig.dev.json
+C:\Users\stast\source\repos\MathLab1\MathLab1\bin\Debug\netcoreapp3.1\MathLab1.dll
+C:\Users\stast\source\repos\MathLab1\MathLab1\bin\Debug\netcoreapp3.1\MathLab1.pdb
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.csproj.AssemblyReference.cache
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.AssemblyInfoInputs.cache
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.AssemblyInfo.cs
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.csproj.CoreCompileInputs.cache
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.dll
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.pdb
+C:\Users\stast\source\repos\MathLab1\MathLab1\obj\Debug\netcoreapp3.1\MathLab1.genruntimeconfig.cache
